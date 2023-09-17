@@ -1,1 +1,1 @@
-"# nginx-reverse-proxy" 
+Reverse proxy configuration for wildanazz.com
